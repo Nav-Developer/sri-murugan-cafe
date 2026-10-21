@@ -14,7 +14,7 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "Broffles",
+  title: "Sri Murugan Cafe",
   description: "Where every dish is a performance.",
 };
 

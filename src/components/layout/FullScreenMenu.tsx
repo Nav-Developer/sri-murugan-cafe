@@ -52,7 +52,7 @@ export default function FullScreenMenu() {
               >
                 <Image
                   src={assets.images.logo}
-                  alt="Broffles"
+                  alt="SriMuruganCafe"
                   fill
                   className="rounded-full object-cover"
                 />
